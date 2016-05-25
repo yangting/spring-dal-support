@@ -13,3 +13,6 @@ hs_err_pid*
 /LICENSE
 /.gitignore
 /.project
+/target/
+/.classpath
+/.settings/
